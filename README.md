@@ -37,7 +37,7 @@ _Above steps will install **jb** systemwide._
   **OPTIONS:**<br />
   **--help** : for help
 
-- Install dependencies from a json file
+- Install dependencies from a json file<br />
   **Usage:**
 
   ```shell
